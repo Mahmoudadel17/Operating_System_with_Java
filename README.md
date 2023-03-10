@@ -1,6 +1,5 @@
 # Operating_System_with_Java
 
-                                                      Assignment 1
 # i) Threads
 
 Given N numbers and one file, our system simulates a real-life of how
@@ -13,7 +12,6 @@ which will reduce the time elapsed.
 Note: The Consumer thread will hold a lock when it start and release it when the
 ready queue is Empty and must notify all other threads.
 
-                                                      Assignment 2
 # ii) CPU Schedulers Simulator
 
 Write a java program to simulate the following schedulers:
@@ -38,10 +36,8 @@ Write a java program to simulate the following schedulers:
             iii. The running process was execute as preemptive Shortest- Job First (SJF) and didn’t use all its quantum time based on another process converted from ready to running (add this process to the end of the queue, and then increase its Quantum time by the remaining Quantum time).
 
             iv. The running process didn’t use all of its quantum time because it’s no longer need that time and the job was completed (set it’s quantum time to zero).
-
-
-
-                                                       Assignment 3
+            
+                                                      
 # iii) Processes Allocation Management
 
 You will develop a memory allocation simulator to allocate
